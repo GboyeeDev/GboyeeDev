@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GboyeeDev
-- 👀 I’m interested in full stack dev
+- 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate with experts in form of entry level full time positions
 - 📫 How to reach me - reach on my email olugboyega.ojelabi@gmail.com
