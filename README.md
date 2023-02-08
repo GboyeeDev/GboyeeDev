@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GboyeeDev
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning React js and Node js
 - 💞️ I’m looking to collaborate with experts in form of entry level full time positions
 - 📫 How to reach me - reach on my email olugboyega.ojelabi@gmail.com
 
