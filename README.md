@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GboyeeDev
 - 👀 I’m interested in Software engineering & Cloud
 - 🌱 I’m currently learning Node js 
-- 💞️ I’m looking to collaborate with experts in form of entry level full time positions
+- 💞️ I’m looking to collaborate with experts in form of entry level positions
 - 📫 How to reach me - reach on my email olugboyega.ojelabi@gmail.com
 
 <!---
